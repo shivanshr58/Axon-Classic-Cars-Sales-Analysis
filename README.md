@@ -21,7 +21,7 @@ The primary objective of this capstone project is to design and implement a comp
 - **PowerBI Files**: Houses PowerBI files comprising the interactive dashboards and reports.
 - **Documentation**: Contains detailed documentation on project setup, data integration processes, and dashboard usage instructions.
 - **SQL Scripts**: Includes SQL scripts used for data extraction, transformation, and advanced analytics.
-- 
+
 ## Getting Started
 
 To get started with the Axon Classic Cars Sales Data Management and Analysis project, follow these steps:
